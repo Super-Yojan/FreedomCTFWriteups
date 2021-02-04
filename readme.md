@@ -3,7 +3,7 @@
 ## Cryptography
 
 * [Caesar Salad](https://github.com/hypnogod/FreedomCTFWriteUps/blob/main/Crypto/Caesar%20Salad.md)
-* [Life Gives You 🍋]()
+* [Life Gives You 🍋](https://github.com/Super-Yojan/FreedomCTFWriteups/blob/master/Crypto/LifeGivesYouLemon/LifeGivesYouLemon.md)
 * [Red in German](https://github.com/hypnogod/FreedomCTFWriteUps/blob/main/Crypto/Red%20in%20German.md)
 * [Basic Crypto & Web](https://github.com/hypnogod/FreedomCTFWriteUps/blob/main/Crypto/Basic%20Crypto%20%26%20Web.md)
 * [Shapes](https://github.com/hypnogod/FreedomCTFWriteUps/blob/main/Crypto/Shapes.md)
@@ -17,7 +17,7 @@
 * [Real Secure Algo](https://github.com/hypnogod/FreedomCTFWriteUps/blob/main/Crypto/Real%20Secure%20Algo/Answer.md)
 * [Superintendent Hunt](https://github.com/GryphNdor/Amazing-Write-Ups/blob/master/crypto/superintendent_hunt.md)
 * [DNA](https://github.com/hypnogod/FreedomCTFWriteUps/blob/main/Crypto/DNA/Answer.md)
-* [John's Meeting]()
+* [John's Meeting](https://github.com/Super-Yojan/FreedomCTFWriteups/blob/master/Crypto/John'sMeeting/README.md)
 * [Anyone speak Latin?]()
 
 ## Web Exploit
@@ -47,7 +47,7 @@
  * [Where in the World?](https://github.com/GryphNdor/Amazing-Write-Ups/blob/master/recon/where_in_the_world.md)
 
 ## Forensics
-* [Piz Piz]()
+* [Piz Piz](https://github.com/Super-Yojan/FreedomCTFWriteups/blob/master/Forensics/PizPiz.md)
 * [Eye Strain](https://github.com/GryphNdor/Amazing-Write-Ups/blob/master/forensics/eye_strain.md)
 * [Data Diver]()
 * [Hide and Seek]()
@@ -72,3 +72,9 @@
 * [Reveal](https://github.com/hypnogod/FreedomCTFWriteUps/blob/main/Steg/Reveal/Answer.md)
 
 ## Reverse Eng 
+* [Noodle Kitten](https://github.com/Super-Yojan/FreedomCTFWriteups/blob/master/RevEng/NoodleKitten/NoodleKitten.md)
+* [你會說中文嗎?]()
+* [Gojo's Game](https://github.com/Super-Yojan/FreedomCTFWriteups/blob/master/RevEng/Gojo'sGame/Gojo'sGame.md)
+* [If Lop](https://github.com/KJolly1/FreedomCTFWriteUps/blob/main/If%20Lop/IfLop.md)
+* [Straw Hat Sailor](https://github.com/Super-Yojan/FreedomCTFWriteups/blob/master/RevEng/StrawHatSailor/StrawHatSalior.md)
+* [Android 16](https://github.com/Super-Yojan/FreedomCTFWriteups/blob/master/RevEng/)
